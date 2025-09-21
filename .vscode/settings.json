@@ -1,6 +1,12 @@
 {
     "files.associations": {
         "iostream": "cpp",
-        "stdexcept": "cpp"
+        "stdexcept": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "span": "cpp"
     }
 }
